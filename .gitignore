@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements
+.env
+.venv/
+venv/
+env/
+
+# Dépendances locales / outils
+.vscode/
+.idea/
+
+# Données locales et archives
+data/
+uber-trip-data.zip
+*.zip
+
+# Fichiers système
+.DS_Store
+Thumbs.db
